@@ -1,0 +1,10 @@
+version: "2.1"
+services:
+  influxdb_webresponse:
+    image: influxdb:1.8
+    container_name: influxdb_webresponse
+    volumes:
+      - /opt/influxdb/data:/var/lib/influxdb
+    ports:
+      - 8086:8086
+    restart: unless-stopped
