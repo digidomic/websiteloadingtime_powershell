@@ -1,6 +1,7 @@
 # Website loading time monitoring
 ---
-
+<img src="https://github.com/digidomic/websiteloadingtime_powershell/blob/main/img/grafanadashboard.jpg">
+---
 ## Powershell
 
 For running the powershell script you first need to install this module:
