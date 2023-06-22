@@ -1,6 +1,3 @@
-# BetterSSPC
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=TDVLA45EDEXRC)
-
 $url = @{
 # first website to check
 DomBlox = "https://domblox.de";
