@@ -1,3 +1,6 @@
+# BetterSSPC
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=TDVLA45EDEXRC)
+
 # Website loading time monitoring
 ---
 <img src="https://github.com/digidomic/websiteloadingtime_powershell/blob/main/img/grafanadashboard.jpg">
